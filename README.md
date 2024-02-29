@@ -1,11 +1,11 @@
   ღ ｡｡｡✧  𝓗𝓲 𝓽𝓱𝓮𝓻𝓮 ℐ'𝓂 𝒦𝒶𝓇𝑜𝓁 ✧ ｡｡｡ ღ
-Estuante de 3rd semestre de Ingenieria en Sistemas
+
 
 
 
 <!--
 **KarolBurbanoN/KarolBurbanoN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Estuante de 3rd semestre de Ingenieria en Sistemas
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
