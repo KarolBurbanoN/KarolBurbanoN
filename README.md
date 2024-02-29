@@ -1,4 +1,5 @@
-  ღ ｡｡｡✧  𝓗𝓲 𝓽𝓱𝓮𝓻𝓮 ✧ ｡｡｡ ღ
+  ღ ｡｡｡✧  𝓗𝓲 𝓽𝓱𝓮𝓻𝓮 ℐ'𝓂 𝒦𝒶𝓇𝑜𝓁 ✧ ｡｡｡ ღ
+Estuante de 3rd semestre de Ingenieria en Sistemas
 
 
 
@@ -16,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+|
