@@ -1,5 +1,6 @@
-### Hi there 👋
-Estudiante
+##  ｡ﾟღ｡｡｡✧  𝓗𝓲 𝓽𝓱𝓮𝓻𝓮 ✧ ｡｡｡ ღ｡ﾟ
+
+
 
 <!--
 **KarolBurbanoN/KarolBurbanoN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
